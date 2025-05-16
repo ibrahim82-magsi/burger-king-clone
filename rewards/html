@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Burger King</title>
+    <link rel="stylesheet" href="./styles/rewards.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <!-- header started  -->
+    <header>
+        <nav class="navbar">
+            <div class="nav-icon">
+                <span class="menu-span"><i class="fa-solid fa-bars"></i></span>
+            </div>
+            <div class="nav-logo">
+                <h1>Burger King</h1>
+            </div>
+            <div class="nav-items">
+                <span class="user-logo"><i class="fa-solid fa-user"></i></span>
+
+
+                <button class="view-cart-btn"><span><i class="fa-solid fa-bag-shopping"></i></span> View Cart</button>
+            </div>
+        </nav>
+        <div class="header-lower">
+            <div class="lower-address">
+                <span class="shop-span"><i class="fa-solid fa-shop"></i></span>
+                <span class="flame-sans"><span class="flame-regular">Pick Up</span> 106 Fulton street</span>
+            </div>
+
+            <div class="arrow-div">
+                <span class="angle-arrow-span"><i class="fa-solid fa-angle-up"></i></span>
+            </div>
+        </div>
+    </header>
+    <!-- header ended  -->
+    <!-- rewards-section started  -->
+    <div class="rewards-heading">
+        <h3>Redeem</h3>
+    </div>
+    <div class="rewards-section">
+        <div class="crowns-num">
+            <h4><span><i class="fa-solid fa-crown"></i></span> 125</h4>
+        </div>
+    </div>
+    <div class="rewards-image">
+        <div class="reward-img-container">
+            <img src="./assests/rewards-1.avif" alt="">
+            <span>Hamburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+    </div>
+    <div class="rewards-section">
+        <div class="crowns-num">
+            <h4><span><i class="fa-solid fa-crown"></i></span> 250</h4>
+        </div>
+    </div>
+    <div class="rewards-image">
+        <div class="reward-img-container">
+            <img src="./assests/rewards-2.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-3.avif" alt="">
+            <span>Chicken jr.</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-4.avif" alt="">
+            <span>French Fries</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-5.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-6.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-7.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+    </div>
+    <div class="rewards-section">
+        <div class="crowns-num">
+            <h4><span><i class="fa-solid fa-crown"></i></span> 400</h4>
+        </div>
+    </div>
+    <div class="rewards-image">
+        <div class="reward-img-container">
+            <img src="./assests/rewards-9.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-10.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-11.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-12.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-13.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-14.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+    </div>
+    <div class="rewards-section">
+        <div class="crowns-num">
+            <h4><span><i class="fa-solid fa-crown"></i></span> 550</h4>
+        </div>
+    </div>
+    <div class="rewards-image">
+        <div class="reward-img-container">
+            <img src="./assests/rewards-16.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-17.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-18.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-19.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-20.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-21.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+    </div>
+    <div class="rewards-section">
+        <div class="crowns-num">
+            <h4><span><i class="fa-solid fa-crown"></i></span> 750</h4>
+        </div>
+    </div>
+    <div class="rewards-image">
+        <div class="reward-img-container">
+            <img src="./assests/rewards-23.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-24.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-25.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-26.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-27.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-29.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+    </div>
+    <div class="rewards-section">
+        <div class="crowns-num">
+            <h4><span><i class="fa-solid fa-crown"></i></span> 1000</h4>
+        </div>
+    </div>
+    <div class="rewards-image">
+        <div class="reward-img-container">
+            <img src="./assests/rewards-13.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-18.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-21.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-16.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-22.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-7.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+    </div>
+    <div class="rewards-section">
+        <div class="crowns-num">
+            <h4><span><i class="fa-solid fa-crown"></i></span> 1400+</h4>
+        </div>
+    </div>
+    <div class="rewards-image last-sect">
+        <div class="reward-img-container">
+            <img src="./assests/rewards-13.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-18.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+        <div class="reward-img-container">
+            <img src="./assests/rewards-21.avif" alt="">
+            <span>Cheeseburger</span>
+            <span><i class="fa-solid fa-lock"></i></span>
+        </div>
+    </div>
+    <!-- rewards section ended  -->
+      <!-- footer navbar started  -->
+    <div class="footer-navbar">
+        <a href="index.html">
+            <div class="home"><span class="home-icon"><i class="fa-solid fa-house"></i></span> Home</div>
+        </a>
+        <a href="menu.html">
+            <div class="menu"><span class="burger-icon"><i class="fa-solid fa-burger"></i></span> Menu</div>
+        </a>
+        <a href="offers.html">
+            <div class="offers"><span class="coupon-icon"><i class="fa-solid fa-money-bill"></i></span> Offers
+            </div>
+        </a>
+        <a href="rewards.html">
+            <div class="rewards"><span class="crown-icon"><i class="fa-solid fa-crown"></i></span> Rewards
+            </div>
+        </a>
+    </div>
+    <!-- footer navbar ended  -->
+</body>
+
+</html>
