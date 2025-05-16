@@ -3,20 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-@font-face {
-    font-family: Flame-bold;
-    src: url(../assests/Fonts/FlameBold.otf);
-}
 
-@font-face {
-    font-family: flame-regular;
-    src: url(../assests/Fonts/FlameRegular.otf);
-}
-
-@font-face {
-    font-family: flame-sans;
-    src: url(../assests/Fonts/FlameSans.otf);
-}
 
 body {
     background-color: #f8f1e7;
